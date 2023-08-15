@@ -6,23 +6,27 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Jun 2023 20:40:04 +0800</lastBuildDate><atom:link href="https://haronhu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Aug 2023 21:09:36 +0800</lastBuildDate><atom:link href="https://haronhu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second</title>
-      <link>https://haronhu.github.io/posts/second/</link>
-      <pubDate>Thu, 29 Jun 2023 20:40:04 +0800</pubDate>
+      <title>My First Post</title>
+      <link>https://haronhu.github.io/posts/my-first-post/</link>
+      <pubDate>Tue, 15 Aug 2023 21:09:36 +0800</pubDate>
       
-      <guid>https://haronhu.github.io/posts/second/</guid>
-      <description>#博客搭建# 在搭建博客中，我并没有遇到大的问题，唯一一点就是在我初始化git init后并没有.past出现，但是再次git init后命令行出现Reinitialized existing Git repository in，于是我继续往下进行，最终顺利搭建博客</description>
-    </item>
-    
-    <item>
-      <title>MyFirstBlog</title>
-      <link>https://haronhu.github.io/posts/myfirstblog/</link>
-      <pubDate>Wed, 28 Jun 2023 15:43:56 +0800</pubDate>
-      
-      <guid>https://haronhu.github.io/posts/myfirstblog/</guid>
-      <description>#博客搭建# 在搭建博客中，我并没有遇到大的问题，唯一一点就是在我初始化git init后并没有.past出现，但是再次git init后命令行出现Reinitialized existing Git repository in，于是我继续往下进行，最终顺利搭建博客</description>
+      <guid>https://haronhu.github.io/posts/my-first-post/</guid>
+      <description>今天通过青训营课程复习了一下html，感觉知识理解都有了一个大的提升，也掌握了新知识 &amp;lsquo;datalist&amp;rsquo;以及&amp;rsquo;dl&amp;rsquo;&amp;lsquo;dt&amp;rsquo;&amp;lsquo;dd&amp;rsquo;。
+在课程中，我们复习了无序列表和有序列表，还有input的placeholder占位符,range、radio、text和date等类型。 cite是斜体标签；strong是加粗字体标签；blockquote是表示引用的标签。
+datalist是放在input标签里的，可以给予用户快捷选择input内容的标签 用法如下
+&amp;lt;input list=&amp;#34;wajj&amp;#34; type=&amp;#34;text&amp;#34;&amp;gt; &amp;lt;datalist id=&amp;#34;wajj&amp;#34;&amp;gt; &amp;lt;option&amp;gt;给我青训营机会&amp;lt;/option&amp;gt; &amp;lt;option&amp;gt;有许多好文章&amp;lt;/option&amp;gt; &amp;lt;/datalist&amp;gt; 而dl,dt,dd是起到的作用和制表符差不多，都是空出4个占位符。 此标签效果如下：
+select和datalist不同的是select不是input类型的子标签，而是一个供选择的选择的文本框，不支持自己手动输入文本。 最后要记录的是前端语言的几大要求：
+功能 美观 无障碍 安全 兼容 性能 用户体验 选择器 伪类选择器1 如图中第5行^=意思是选中href中以&amp;quot;#&amp;ldquo;开头的a标签
+第11行$=意思是选中href中以&amp;rdquo;.jpg&amp;quot;结尾的a标签 伪类选择器2 伪类的定义：状态伪类、结构伪类等
+状态伪类比如有标签所处不同状态不同css样式如：
+link(默认状态下)、visited(访问过后的状态)、hover(鼠标移上去后)、active(鼠标摁下去后)四种状态
+结构伪类：如first-child(第一个)、last-child(最后一个)
+选择器组合 下面是一些css选择器样式， 除此之外如果想要同时选中多个标签可以用，隔开(即选择器组)
+css颜色在这里不过阐述 字体(font-family) css中斜体是font-style: italic
+css中字重(字的粗细)是font-weight 一些字体可以只有(400-normal)(700-bold)两种字重
+line-height是行高(两行之间的距离加一行字体的高度)</description>
     </item>
     
   </channel>
